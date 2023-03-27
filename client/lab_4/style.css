@@ -145,7 +145,6 @@ div {
   flex: 1 2 auto;
   margin: 1rem;
   align-items: center;
-  max-width: 450px;
   justify-content: center;
   display: flex;
 }
